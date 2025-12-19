@@ -1,0 +1,66 @@
+{
+  "thumb": {
+    "flex": {
+      "min": 150,
+      "max": 600,
+      "neutral": 375,
+      "offset": 0,
+      "multiplier": 1.0
+    },
+    "abd": {
+      "min": 200,
+      "max": 550,
+      "neutral": 375,
+      "offset": 0.9500000000000002,
+      "multiplier": 1.0
+    }
+  },
+  "index": {
+    "flex": {
+      "min": 150,
+      "max": 600,
+      "neutral": 375,
+      "offset": 0.75,
+      "multiplier": 1.0
+    },
+    "abd": {
+      "min": 200,
+      "max": 550,
+      "neutral": 375,
+      "offset": -0.9500000000000002,
+      "multiplier": 1.0
+    }
+  },
+  "middle": {
+    "flex": {
+      "min": 150,
+      "max": 600,
+      "neutral": 375,
+      "offset": 0,
+      "multiplier": 1.0
+    },
+    "abd": {
+      "min": 200,
+      "max": 550,
+      "neutral": 375,
+      "offset": 0,
+      "multiplier": 1.0
+    }
+  },
+  "ring": {
+    "flex": {
+      "min": 150,
+      "max": 600,
+      "neutral": 375,
+      "offset": 0,
+      "multiplier": 1.0
+    },
+    "abd": {
+      "min": 200,
+      "max": 550,
+      "neutral": 375,
+      "offset": 0,
+      "multiplier": 1.0
+    }
+  }
+}
