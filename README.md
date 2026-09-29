@@ -384,10 +384,6 @@ Original AmazingHand project:
 
 https://github.com/pollen-robotics/AmazingHand
 
-## License
-
-Add the license you want to use for your own code here. The license of this repository should not be assumed to be the same as the upstream AmazingHand project.
-
 ## Author
 
 **Arun M**
