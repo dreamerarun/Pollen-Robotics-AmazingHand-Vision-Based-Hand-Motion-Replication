@@ -1,0 +1,7 @@
+# Core computer vision
+opencv-python
+mediapipe
+numpy
+
+# Raspberry Pi / PCA9685 servo control
+Adafruit-PCA9685
